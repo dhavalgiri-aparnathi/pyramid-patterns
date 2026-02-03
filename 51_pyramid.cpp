@@ -9,6 +9,5 @@ A A A A A
 */
 
 # include <iostream>
-
 using namespace std;
 
